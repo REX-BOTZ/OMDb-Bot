@@ -5,8 +5,8 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 
-START_MSG = "𝖧𝖺𝗂 <b>{}</b>, \n𝖨'𝗆 𝖺 𝖲𝗂𝗆𝗉𝗅𝖾 𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆 𝖡𝗈𝗍 𝖳𝗈 𝖦𝖾𝗍 𝖬𝗈𝗏𝗂𝖾 𝖨𝗇𝖿𝗈 𝖴𝗌𝗂𝗇𝗀 𝖮𝖬𝖣𝖻\n \n𝖲𝖾𝗇𝖽 𝖬𝖾 𝖳𝗁𝖾 𝖬𝗈𝗏𝗂𝖾 𝖭𝖺𝗆𝖾 𝖳𝗈 𝖦𝖾𝗍 𝖨𝗇𝖿𝗈 𝖠𝖻𝗈𝗎𝗍 𝖨𝗍"
-STICKER = 'CAACAgUAAxkDAALjS2F9dI-C4OaXKkSgsAxjX1mkofkKAAJXBAAC6aXoV2X6ud6KqXzUHgQ'  
+START_MSG = "𝖧𝖺𝗂 <b>{}</b>, \n𝖨'𝗆 𝖺 𝖲𝗂𝗆𝗉𝗅𝖾 𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆 𝖡𝗈𝗍 𝖳𝗈 𝖦𝖾𝗍 𝖬𝗈𝗏𝗂𝖾 𝖨𝗇𝖿𝗈 𝖴𝗌𝗂𝗇𝗀 IMDB\n \n𝖲𝖾𝗇𝖽 𝖬𝖾 𝖳𝗁𝖾 𝖬𝗈𝗏𝗂𝖾 𝖭𝖺𝗆𝖾 𝖳𝗈 𝖦𝖾𝗍 𝖨𝗇𝖿𝗈 𝖠𝖻𝗈𝗎𝗍 𝖨𝗍"
+STICKER = 'CAACAgIAAxkBAAEFRKliz7HGDeBJdocwVpkUAoWKy4lAQgACrw0AAk2yoUvsGprXoh3YWikE'  
 
 
 Bot = Client(
